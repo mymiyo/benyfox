@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me: 
 -                     tg - @g4mait
-- 
                       vk - benyfox
-                      
                       ds - benyfox#9009
 
 <!---
