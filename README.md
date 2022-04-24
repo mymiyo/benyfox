@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @benyfox
 - 👀 I’m interested in games, memory reading, python memes
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me: tg - @g4mait
+- 📫 How to reach me: 
+-                     tg - @g4mait
 - 
                       vk - benyfox
                       
