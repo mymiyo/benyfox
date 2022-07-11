@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benyfox
-- 👀 I’m interested in games, memory reading, python memes
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in games, game hacking and interesting frameworks
+- 🌱 I’m currently learning c++
 - 📫 How to reach me: 
 -                     tg - @g4mait
                       vk - benyfox
