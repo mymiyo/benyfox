@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benyfox
 - 👀 I’m interested in games, game hacking and interesting frameworks
-- 🌱 I’m currently learning ts, rust, c++
+- 🌱 I’m currently learning go, rust, c++
 - 📫 How to reach me: 
 -                     tg - @mymiye
                       ds - benyfox
